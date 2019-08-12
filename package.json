@@ -33,18 +33,10 @@
   "description": "multiple selection picker for react-native",
   "main": "index.js",
   "keywords": [
-    "multiple",
-    "select",
-    "multiple",
-    "picker",
-    "multi",
-    "select",
-    "picker",
-    "multiple",
-    "select",
-    "picker"
+    " react native multiple select",
+    "react native multi select"
   ],
-  "author": "shayan",
+  "author": "shayan aithal",
   "license": "ISC",
   "repository": {
     "type": "git",
