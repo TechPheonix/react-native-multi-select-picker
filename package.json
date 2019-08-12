@@ -1,7 +1,6 @@
 {
   "name": "multipleselectpicker",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "ios": "node node_modules/react-native/local-cli/cli.js run-ios",
     "android": "node node_modules/react-native/local-cli/cli.js run-android",
