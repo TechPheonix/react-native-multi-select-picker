@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-npm install react-native-multi-select
+npm install react-native-multi-select-picker
 ```
 
 ## Usage
