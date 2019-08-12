@@ -9,7 +9,6 @@
   "peerDependencies": {
     "react": "16.8.6",
     "react-native": "0.60.4",
-    "typescript": "^3.5.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
