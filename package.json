@@ -2,8 +2,6 @@
   "name": "react-native-multi-select",
   "version": "1.0.0",
   "scripts": {
-    "ios": "node node_modules/react-native/local-cli/cli.js run-ios",
-    "android": "node node_modules/react-native/local-cli/cli.js run-android",
     "lint": "tslint -p \".\" -t stylish",
     "start": "react-native start",
     "test": "jest"
