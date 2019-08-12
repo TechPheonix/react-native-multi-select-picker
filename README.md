@@ -15,7 +15,7 @@ npm install react-native-multi-select-picker
 ```js
 import * as React from 'react'
 import { StyleSheet, Text, View, TouchableOpacity, Image, ScrollView } from 'react-native'
-import MultipleSelectPicker from './src/MultipleSelectPicker'
+import { MultipleSelectPicker } from 'react-native-multi-select-picker'
 
 export default class App extends React.Component<any, {}> {
     state = {
