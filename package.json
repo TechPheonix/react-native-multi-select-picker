@@ -1,6 +1,6 @@
 {
   "name": "react-native-multi-select-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "lint": "tslint -p \".\" -t stylish",
     "start": "react-native start",
@@ -8,7 +8,7 @@
   },
   "peerDependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.4",
+    "react-native": "0.60.4"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
