@@ -6,7 +6,7 @@
     "start": "react-native start",
     "test": "jest"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "16.8.6",
     "react-native": "0.60.4",
     "typescript": "^3.5.3"
@@ -25,7 +25,8 @@
     "tslint": "^5.18.0",
     "tslint-eslint-rules": "^5.4.0",
     "tslint-react": "^4.0.0",
-    "tslint-react-recommended": "^1.0.15"
+    "tslint-react-recommended": "^1.0.15",
+    "typescript": "^3.5.3"
   },
   "jest": {
     "preset": "react-native"
