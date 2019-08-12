@@ -1,0 +1,52 @@
+{
+  "name": "multipleselectpicker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "ios": "node node_modules/react-native/local-cli/cli.js run-ios",
+    "android": "node node_modules/react-native/local-cli/cli.js run-android",
+    "lint": "tslint -p \".\" -t stylish",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.8.6",
+    "react-native": "0.60.4",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/runtime": "^7.5.0",
+    "@react-native-community/eslint-config": "^0.0.3",
+    "@types/react": "^16.8.24",
+    "@types/react-native": "^0.60.3",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-native-typescript-transformer": "^1.2.13",
+    "react-test-renderer": "16.8.6",
+    "tslint": "^5.18.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-react": "^4.0.0",
+    "tslint-react-recommended": "^1.0.15"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "multiple selection picker for react-native",
+  "main": "index.js",
+  "keywords": [
+    "multiple",
+    "select",
+    "multiple",
+    "picker",
+    "multi",
+    "select",
+    "picker",
+    "multiple",
+    "select",
+    "picker"
+  ],
+  "author": "shayan",
+  "license": "ISC"
+}
