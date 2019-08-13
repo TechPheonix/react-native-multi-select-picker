@@ -1,6 +1,6 @@
 {
   "name": "react-native-multi-select-picker",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "scripts": {
     "lint": "tslint -p \".\" -t stylish",
     "start": "react-native start",
