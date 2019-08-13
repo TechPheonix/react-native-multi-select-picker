@@ -2,7 +2,7 @@
 
 
 > react-native-select-multiple is a customiseable  flatlist picker that allows you to select multiple items.
-
+![select-multip-select-picker](deomo-example.gif)
 
 ## Install
 
